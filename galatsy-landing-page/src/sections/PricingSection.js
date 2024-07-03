@@ -5,11 +5,16 @@ const PricingTier = ({ name, price, frequency, features, buttonText, highlighted
   <div className={`bg-gray-800 p-8 rounded-lg ${highlighted ? 'border-2 border-purple-500' : ''}`}>
     <h4 className="text-2xl font-bold mb-4">{name}</h4>
     <p className="text-4xl font-bold mb-6">
-      ${price}
       {name.toLowerCase() === 'starter' ? (
-        <span className="text-xl font-normal text-gray-400"></span>
+        <> {/* React Fragment to return multiple elements */}
+          <span>{price}</span>
+          <span className="text-xl font-normal text-gray-400"></span>
+        </>
       ) : (
-        <span className="text-xl font-normal text-gray-400">/{frequency}</span>
+        <> {/* React Fragment to return multiple elements */}
+          <span>${price}</span>
+          <span className="text-xl font-normal text-gray-400">/{frequency}</span>
+        </>
       )}
     </p>
     <ul className="mb-8 space-y-2">
