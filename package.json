@@ -1,6 +1,6 @@
 {
   "name": "galatsy-landing-page",
-  "homepage": "http://{username}.github.io/{repository-name}",
+  "homepage": "https://github.com/GalaApp/galatsy-landing-page",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
