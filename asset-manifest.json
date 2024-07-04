@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/GalaApp/galatsy-landing-page/static/css/main.a3919897.css",
-    "main.js": "/GalaApp/galatsy-landing-page/static/js/main.2f769bce.js",
-    "static/js/453.57872cd4.chunk.js": "/GalaApp/galatsy-landing-page/static/js/453.57872cd4.chunk.js",
-    "static/media/profile-message.jpg": "/GalaApp/galatsy-landing-page/static/media/profile-message.7070fa9487be728f0bff.jpg",
-    "static/media/galatsy-for-stylists.jpeg": "/GalaApp/galatsy-landing-page/static/media/galatsy-for-stylists.5d4189e6be97a628f62b.jpeg",
-    "static/media/img-customer-woman-salon.jpeg": "/GalaApp/galatsy-landing-page/static/media/img-customer-woman-salon.79c4589f2be8e54e5012.jpeg",
-    "static/media/galatsy-logo.svg": "/GalaApp/galatsy-landing-page/static/media/galatsy-logo.58efe50e1ff734d99be3a376724c31ce.svg",
-    "index.html": "/GalaApp/galatsy-landing-page/index.html",
-    "main.a3919897.css.map": "/GalaApp/galatsy-landing-page/static/css/main.a3919897.css.map",
-    "main.2f769bce.js.map": "/GalaApp/galatsy-landing-page/static/js/main.2f769bce.js.map",
-    "453.57872cd4.chunk.js.map": "/GalaApp/galatsy-landing-page/static/js/453.57872cd4.chunk.js.map"
+    "main.css": "/galatsy-landing-page/static/css/main.a3919897.css",
+    "main.js": "/galatsy-landing-page/static/js/main.beb81409.js",
+    "static/js/453.57872cd4.chunk.js": "/galatsy-landing-page/static/js/453.57872cd4.chunk.js",
+    "static/media/profile-message.jpg": "/galatsy-landing-page/static/media/profile-message.7070fa9487be728f0bff.jpg",
+    "static/media/galatsy-for-stylists.jpeg": "/galatsy-landing-page/static/media/galatsy-for-stylists.5d4189e6be97a628f62b.jpeg",
+    "static/media/img-customer-woman-salon.jpeg": "/galatsy-landing-page/static/media/img-customer-woman-salon.79c4589f2be8e54e5012.jpeg",
+    "static/media/galatsy-logo.svg": "/galatsy-landing-page/static/media/galatsy-logo.58efe50e1ff734d99be3a376724c31ce.svg",
+    "index.html": "/galatsy-landing-page/index.html",
+    "main.a3919897.css.map": "/galatsy-landing-page/static/css/main.a3919897.css.map",
+    "main.beb81409.js.map": "/galatsy-landing-page/static/js/main.beb81409.js.map",
+    "453.57872cd4.chunk.js.map": "/galatsy-landing-page/static/js/453.57872cd4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3919897.css",
-    "static/js/main.2f769bce.js"
+    "static/js/main.beb81409.js"
   ]
 }
