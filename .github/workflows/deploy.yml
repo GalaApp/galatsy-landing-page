@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - deploy
+      -main
 
 jobs:
   deploy:
@@ -32,3 +32,4 @@ jobs:
           git config --global user.name "RC"
           git remote set-url origin https://x-access-token:${{ secrets.ACTIONS_DEPLOY_KEY }}@github.com/${{ github.repository }}
           npm run deploy
+
