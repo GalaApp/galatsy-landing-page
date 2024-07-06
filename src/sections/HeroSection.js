@@ -3,30 +3,30 @@ import { Download, Mail, ChevronDown } from 'lucide-react';
 
 const HeroSection = ({ profileImage }) => {
   return (
-    <section className="pt-32 pb-20 px-6">
-      <div className="max-w-7xl mx-auto flex items-center justify-between">
-        <div className="w-1/2 pr-12">
-          <h2 className="text-5xl font-bold mb-6 leading-tight">
+    <section className="pt-20 pb-12 px-4 sm:px-6 lg:pt-32 lg:pb-20">
+      <div className="max-w-7xl mx-auto flex flex-col lg:flex-row items-center justify-between">
+        <div className="w-full lg:w-1/2 lg:pr-12 mb-12 lg:mb-0">
+          <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-6 leading-tight">
             Your perfect style, communicated effortlessly.
           </h2>
-          <p className="text-xl mb-8 text-gray-400">
+          <p className="text-lg sm:text-xl mb-8 text-gray-400">
             Share your vision, eliminate miscommunication, and get the exact look you want.
           </p>
-          <p className="text-3xl font-semibold mb-4">
+          <p className="text-2xl sm:text-3xl font-semibold mb-4">
             <span className="text-purple-400">Transform your salon experience</span>
             <br />
             with just a tap.
           </p>
-          <div className="space-x-4">
-            <button className="bg-purple-600 text-white px-6 py-3 rounded-md font-semibold text-lg inline-flex items-center hover:bg-purple-500 transition duration-300">
+          <div className="space-y-4 sm:space-y-0 sm:space-x-4">
+            <button className="w-full sm:w-auto bg-purple-600 text-white px-6 py-3 rounded-md font-semibold text-lg inline-flex items-center justify-center hover:bg-purple-500 transition duration-300">
               <Download className="mr-2" />
               Download Galatsy
             </button>
           </div>
         </div>
 
-        <div className="w-1/2 p-20">
-          <div className="bg-gray-900 rounded-lg p-8 shadow-2xl">
+        <div className="w-full lg:w-1/2 p-4 sm:p-8 lg:p-20">
+          <div className="bg-gray-900 rounded-lg p-4 sm:p-8 shadow-2xl">
             <div className="flex items-center mb-4">
               <img src={profileImage} alt="User" className="rounded-full w-10 h-10 mr-3" />
               <div>
