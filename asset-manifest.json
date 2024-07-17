@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/galatsy-landing-page/static/css/main.1db81ad8.css",
+    "main.css": "/galatsy-landing-page/static/css/main.c65290c4.css",
     "main.js": "/galatsy-landing-page/static/js/main.3952ce31.js",
     "static/js/453.57872cd4.chunk.js": "/galatsy-landing-page/static/js/453.57872cd4.chunk.js",
     "static/media/profile-message.jpg": "/galatsy-landing-page/static/media/profile-message.7070fa9487be728f0bff.jpg",
@@ -8,12 +8,12 @@
     "static/media/img-customer-woman-salon.jpeg": "/galatsy-landing-page/static/media/img-customer-woman-salon.79c4589f2be8e54e5012.jpeg",
     "static/media/galatsy-logo.svg": "/galatsy-landing-page/static/media/galatsy-logo.58efe50e1ff734d99be3a376724c31ce.svg",
     "index.html": "/galatsy-landing-page/index.html",
-    "main.1db81ad8.css.map": "/galatsy-landing-page/static/css/main.1db81ad8.css.map",
+    "main.c65290c4.css.map": "/galatsy-landing-page/static/css/main.c65290c4.css.map",
     "main.3952ce31.js.map": "/galatsy-landing-page/static/js/main.3952ce31.js.map",
     "453.57872cd4.chunk.js.map": "/galatsy-landing-page/static/js/453.57872cd4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1db81ad8.css",
+    "static/css/main.c65290c4.css",
     "static/js/main.3952ce31.js"
   ]
 }
