@@ -1,12 +1,3 @@
-# Run necessary dependencies:
-
-npm install react-router-dom lucide-react @tailwindcss/typography tailwindcss postcss autoprefixer
-
-# Set up Tailwind CSS:
-
-npx tailwindcss init -p
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
