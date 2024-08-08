@@ -1,7 +1,9 @@
 import React from 'react';
 import { ChevronRight } from 'lucide-react';
+import usePageTracking from './usePageTracking';
 
 export default function LandingPage() {
+  usePageTracking();
   return (
     <div className="min-h-screen bg-black text-white flex flex-col justify-center items-center p-4 overflow-x-hidden font-sans">
       <div className="w-full max-w-md sm:max-w-lg md:max-w-xl lg:max-w-2xl xl:max-w-4xl">
